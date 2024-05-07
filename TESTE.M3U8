@@ -1,0 +1,933 @@
+#EXTM3U
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/opifTi4YVvqMJkDpMCi2mjwE77B.jpg" group-title="MOVIE CHANNELS", Duna: Parte Dois
+
+https://hls.evomike.online/video/playlist/6c3a52a262fdf3a929f22d6613bb574c/1080/1080p-0.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/aNK6MA5EApIo0UJE7ZWSYcZBJKy.jpg" group-title="MOVIE CHANNELS", Kung Fu Panda 4
+
+https://hls.evomike.online/video/playlist/617b95804bca46e327568b22e0d39fa3/1080/1080p-0.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/pXYJjUNtnLfXVKGmqi1nfGornri.jpg" group-title="MOVIE CHANNELS", Kung Fu Panda 3
+
+https://hls3.evomike.online/video/playlist/d5c1dd52d091a8e23c624bf7a7f77b5c/1080/1080p-0.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/5JbE0PO5ogQut1jM5wNJO2VHt9A.jpg" group-title="MOVIE CHANNELS", Kung Fu Panda 2
+
+https://hls3.evomike.online/video/playlist/0b8c51ca61f599329369325ab59044f7/1080/1080p-0.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/7AtTXAZLeDA3y7EXniKP0QChOLW.jpg" group-title="MOVIE CHANNELS", Kung Fu Panda
+
+https://hls3.evomike.online/video/playlist/3117af88effae0b5fa22391af4208d14/720/720p-0.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/gJbV4A1NNAysDfNbiUo4biapSY0.jpg" group-title="MOVIE CHANNELS", Luta Por Sobrevivência
+
+https://hls3.evomike.online/video/playlist/4c549b782b6f051facd4d58a23e480e8/1080/1080p-0.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/d2bIfAHnYYsOdpHAYwSzRn3da6C.jpg" group-title="MOVIE CHANNELS", Wasabi
+
+https://hls3.evomike.online/video/playlist/707826552a102d9eee0cd16e34498c3b/1080/1080p-0.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/vTiL39wIXvayG6nMA7CYXGWiXhO.jpg" group-title="MOVIE CHANNELS", O Reencontro da Turma
+
+https://hls2.evomike.online/video/playlist/58ae4028d7ff7a3f5f07793cb4fa3b24/1080/1080p-0.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/lURBFLtvbW3MuyJLU5GV68H530h.jpg" group-title="MOVIE CHANNELS", Uma Parede entre Nós
+
+https://hls2.evomike.online/video/playlist/54ea573f9a24a86005f8ec2f560342b1/1080/1080p-0.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/hE9ToZRWcEd3jh96gbhKjWlUOQa.jpg" group-title="MOVIE CHANNELS", Uma Jornada Entre Amigos
+
+https://hls2.evomike.online/video/playlist/b07c2291ce293f40fb72a346f14c0347/1080/1080p-0.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/ZmKvpPlJTh0ItvyP0ADvPiTdnz.jpg" group-title="MOVIE CHANNELS", A Teia
+
+https://hls2.evomike.online/video/playlist/b89d4fb27adb4e0f9a2c1d8306e2d2e8/1080/1080p-0.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/2INtXKQGxQLT6MhztartxiammuC.jpg" group-title="MOVIE CHANNELS", Pica-Pau: As Férias no Acampamento
+
+https://hls2.evomike.online/video/playlist/6d13a5e720d9c347abc72c9a9e5535f7/1080/1080p-0.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/bZLo7tbOfbZWiSBsWz2tKWdSKmj.jpg" group-title="MOVIE CHANNELS", Herança Roubada
+
+https://hls2.evomike.online/video/playlist/de6c8cac535fa4fcdeae4bd78b952778/1080/1080p-0.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/dXjSeS3w97setnrNv4m6tlqqXzn.jpg" group-title="MOVIE CHANNELS", Bosco
+
+https://hls2.evomike.online/video/playlist/d855fa03b663a0d0d4ab888fbab35a4a/1080/1080p-0.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/xBFyJHvXCTgf9Vmq5uCnXRHrMQ4.jpg" group-title="MOVIE CHANNELS", Ferrari
+
+https://hls2.evomike.online/video/playlist/54bf4c22fab9b73978995c43b0f34347/1080/1080p-0.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/1jVlr869bV5ulcrJzqNlJs5KTMx.jpg" group-title="MOVIE CHANNELS", Pacto de Redenção
+
+https://hls2.evomike.online/video/playlist/5e42c3723fff12a89da315fefc11823a/1080/1080p-0.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/tjCah5d0uM3BPRfdmAWVnYB6ZND.jpg" group-title="MOVIE CHANNELS", Fuga de Los Angeles
+
+https://hls2.evomike.online/video/playlist/e180e6e1dc1f3dd696e793fcc6cca8cc.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/x9WtRo3zf7p3K7ERdlpqlRgtYU6.jpg" group-title="MOVIE CHANNELS", A Múmia
+
+https://hls3.evomike.online/video/playlist/729630f5e90b85ce7c5d20638051d006.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/trLVOBJxgq4K4Ei2OJFZgIeaPzB.jpg" group-title="MOVIE CHANNELS", O Retorno da Múmia
+ 
+https://hls3.evomike.online/video/playlist/bf3930c3ad2df864fd64c925643bb7d5.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/lHv4SqGuQ6K9Z0H6E5fkU7yZlxD.jpg" group-title="MOVIE CHANNELS", A Múmia - Tumba do Imperador Dragão
+
+https://hls3.evomike.online/video/playlist/104e9336806618d487b24f26c48244bd.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/5wAlO5zZ3IyzLBAf7cp5WejalmG.jpg" group-title="MOVIE CHANNELS", Prey
+ 
+https://hls5.evomike.online/video/playlist/8f68479b776c1ae979659ebf6b62a26c.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/vFcKla48r8OUTKiSMXnSwKNSTsn.jpg" group-title="MOVIE CHANNELS", Alma de Caçador
+ 
+https://hls5.evomike.online/video/playlist/a4b34c65dcd106a2124bad468984f854/720/720p-0.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/wQpmQV4asLYTAmw4BwgmtfGx0Os.jpg" group-title="MOVIE CHANNELS", O Salário do Medo
+ 
+https://hls5.evomike.online/video/playlist/77795aa5c919f1c655a3ec1790d94528.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/tDpaayz2keKcChiFwthVUidkFwD.jpg" group-title="MOVIE CHANNELS", Leão Branco: O Lutador Sem Lei
+
+https://hls4.evomike.online/video/playlist/25a8d77fa53b1ab602c87264b2c37b95.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/h2xDLj6CtzItwQEFyBjIXh5z3QD.jpg" group-title="MOVIE CHANNELS", Matador de Aluguel
+
+https://hls4.evomike.online/video/playlist/63ee4f8dd6b9280bdde7b698f967dfc4.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/zWEm5oy2tE9ku1KSNM089FmZJ2p.jpg" group-title="MOVIE CHANNELS", Madame Teia
+
+https://hls3.evomike.online/video/playlist/b2e7d2c90d888af50ba6c4bcd74adc0d.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/wjcOukmiJKp4oMrIXOa3hlvODph.jpg" group-title="MOVIE CHANNELS", Um Tira da Pesada
+
+https://hls3.evomike.online/video/playlist/49f75a0d432d2c7d11b3ca6d43ee0ef3.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/6GNeRazaEV0TrfnIgaMOrLYrjfx.jpg" group-title="MOVIE CHANNELS", Um Tira da Pesada 2
+
+https://hls3.evomike.online/video/playlist/60cf3ca41db25a80b17e368a97b84354.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/klHTsxwfKLSzqonMkimvZ4KfuH7.jpg" group-title="MOVIE CHANNELS", Um Tira da Pesada 3
+
+https://hls3.evomike.online/video/playlist/12f69a0699c54a8d3a4bd2d797f4383d.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/8B5kcNrZUocXZMG80NWhroz94mf.jpg" group-title="MOVIE CHANNELS", A Arte de Amar
+ 
+https://hls3.evomike.online/video/playlist/6f915b2b24e9463b400362d07bfd5a2c.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/rboZslo3eQWKBQ3QvlO6wGV0J3K.jpg" group-title="MOVIE CHANNELS", John Wick: De Volta ao Jogo
+
+https://hls3.evomike.online/video/playlist/ba979ba3294dd12b36f9375dafca6a80.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/k36UzsRQaY6E055cdYPdYbyREer.jpg" group-title="MOVIE CHANNELS", John Wick 2: Um Novo Dia para Matar
+ 
+https://hls3.evomike.online/video/playlist/d0a3c32d223d4ccd195a79f7385cd42f.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/bE6XutmB6tcvzTHBx4JGJLlzouM.jpg" group-title="MOVIE CHANNELS", John Wick 3: Parabellum
+ 
+https://hls3.evomike.online/video/playlist/5fd2864756e2be2a75d4e026a79f7268.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/rXTqhpkpj6E0YilQ49PK1SSqLhm.jpg" group-title="MOVIE CHANNELS", John Wick 4: Baba Yaga
+
+https://hls3.evomike.online/video/playlist/9d1e39f5378562aac6e126be88a8bd0b.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/wVWrIJ18BnBuwd9cVjxju5a2Wtl.jpg" group-title="MOVIE CHANNELS", A Hora do Rush
+
+https://hls5.evomike.online/video/playlist/4db27448655a27e151e679416b40ad2f.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/5DNVpS1gzEgaoPIW5HuPbKa1dnT.jpg" group-title="MOVIE CHANNELS", A Hora do Rush 2
+
+https://hls5.evomike.online/video/playlist/09c708c6d63bdaec4efd7a4a50fa3a67.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/7sqXl2yNWv1roe3LN3hNrhozJvn.jpg" group-title="MOVIE CHANNELS", A Hora do Rush 3
+
+https://hls5.evomike.online/video/playlist/0f5d53bff0252ad66af6c1bd0ca26a31.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/y06FivvCfqapHB3iETOtbAqWdkD.jpg" group-title="MOVIE CHANNELS", Homem-Aranha 2
+
+https://hls4.evomike.online/video/playlist/26621469f2ac31fa63ea275774bad21e.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/5831VrgpYNPEokBwxurLVpQ3twM.jpg" group-title="MOVIE CHANNELS", Homem-Aranha 3
+
+https://hls4.evomike.online/video/playlist/800c55e60419fe814ac9c6617c188411.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/gxSsFBCFuDhVQMCuIDoZcmHOqlY.jpg" group-title="MOVIE CHANNELS", O Espetacular Homem-Aranha
+
+https://hls4.evomike.online/video/playlist/baa32fff9abbf1b731944764d2ab61f1.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/17jHyaXGTpYOJiIx0KsYxneBG7w.jpg" group-title="MOVIE CHANNELS", O Espetacular Homem-Aranha 2: A Ameaça de Electro
+ 
+https://hls4.evomike.online/video/playlist/86f55e447cf880053be282610ca5af41.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/1ojCiMpYmCciIFuEcgLOOGLbUND.jpg" group-title="MOVIE CHANNELS", Argylle: O Superespião
+
+https://hls5.evomike.online/video/playlist/9a46711f6ddabe3b7f0332c9944d3f6b.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/A7EByudX0eOzlkQ2FIbogzyazm2.jpg " group-title="MOVIE CHANNELS", Beekeeper - Rede de Vingança
+
+https://hls4.evomike.online/video/playlist/2002696a94dac2775614275037a7a558.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/pkQMRlpLBcmcZXLU3t465SGuquF.jpg" group-title="MOVIE CHANNELS", Code 8: Renegados - Parte 2
+
+https://hls4.evomike.online/video/playlist/e440e231fbc8bcbb38853aa1a605febc.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/yOj7bYYyMMqiqgh7Bu7qxLwtbsz.jpg" group-title="MOVIE CHANNELS", Code 8: Renegados
+
+https://hls4.evomike.online/video/playlist/0803ec93cae5dbfafff247d5c430db9f.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/R1ieKOdGHYL7BRpl0iRgNV1uXw.jpg" group-title="MOVIE CHANNELS", Gladiador
+
+https://hls2.evomike.online/video/playlist/f59e266e92d0c5fcaa68720cd3f6d08d.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/okbpLqjaUmtYfLlpnNq1vMuLz1w.jpg" group-title="MOVIE CHANNELS", Pequenos Espiões 2: A Ilha dos Sonhos Perdidos
+
+https://hls.evomike.online/videos/2b21514599df15bc57e9f7fc6d5e17bf/master.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/cwCKYjIPXapuBtO51S81GNhoGxV.jpg" group-title="MOVIE CHANNELS", Pequenos Espiões: Apocalipse
+
+https://hls.evomike.online/videos/43b70756a6eba8089cbaa03b378e8a00/master.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/oZPl3U4Uxi2FifZCKiHsIZTxIFj.jpg" group-title="MOVIE CHANNELS", O Caminho para o Coração
+
+https://hls2.evomike.online/video/playlist/6c56a91c485cd94fd66c5af379baa06f.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/ncVSZQn1fH0U4EB7kRzb4Pw53Mi.jpg" group-title="MOVIE CHANNELS", O Capitão Soviético
+
+https://hls2.evomike.online/video/playlist/43a8be75ddc2ed7148b58e94e1b0c7ac.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/nAVp1LiG9xVRRG52pW4Wp970pFQ.jpg" group-title="MOVIE CHANNELS", Nossos Fantasmas
+
+https://hls2.evomike.online/video/playlist/5948757277e95232688a5c638fe30ac6.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/3Laz0p3Qg47vI2XIalpL2SlNUDI.jpg" group-title="MOVIE CHANNELS", Jogo Bonito
+
+https://hls5.evomike.online/video/playlist/6b534f7c85e49b1dbf85ec5080ee212a.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/q3TFEdIpzNC609G0pEV6FOlHCAg.jpg" group-title="MOVIE CHANNELS", Descanse em Paz
+
+https://hls5.evomike.online/video/playlist/e8f21e7952f08801dd04532e8dac7020.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/xSVRiLvaEGo6Wxsi52YtKMMx3vM.jpg" group-title="MOVIE CHANNELS", A Marginal
+
+https://hls4.evomike.online/video/playlist/2c1ad862d67cdc915228b7849a94f029.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/mKWalirPreEdCKDJjc5TKeOP2xi.jpg" group-title="MOVIE CHANNELS", Bob Marley: One Love
+
+https://hls5.evomike.online/video/playlist/5075b1acd5bdc8f764dc997c9fbd67dd/720/720p-0.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/iXt5oRJynNWn7kb0TLaAhV6bkc0.jpg" group-title="MOVIE CHANNELS", Jogando Sujo
+
+https://hls5.evomike.online/video/playlist/3af5291f6368d498e191b17cc8e22fce.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/pGEB1qR73d8XNhnHCXqnkuMokIk.jpg" group-title="MOVIE CHANNELS", Einstein e a Bomba
+
+https://hls2.evomike.online/video/playlist/12d2b7fcb85c66de6d7d9a4409a055e4.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/2WIwz0qJpnVAiofTAhrmhbKxuvE.jpg" group-title="MOVIE CHANNELS", Homem-Aranha DUBALDO 
+
+https://hls4.evomike.online/video/playlist/4a59a4905fddc53221be132472dba36e.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/ybQSBSrINtjWsJQ6Ih8sva8HlEZ.jpg" group-title="MOVIE CHANNELS", Homem-Aranha: No Aranhaverso
+
+https://hls4.evomike.online/video/playlist/fb8a3b27d9f5a94e612df87a66909d65.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/xxPXsL8V95dTwL5vHWIIQALkJQS.jpg" group-title="MOVIE CHANNELS", Homem-Aranha: Através do Aranhaverso
+
+https://hls5.evomike.online/video/playlist/1d845fdbc262dc04461e37df379cec9e.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/z8k5EhZZTLsCRF8NWjSe6snWNZg.jpg" group-title="MOVIE CHANNELS", Os Incríveis
+
+https://hls3.evomike.online/video/playlist/e78263995a405ee145305550c85058af.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/y3EEb7o6NxK0pl0WsOswCos663y.jpg" group-title="MOVIE CHANNELS", Os Incríveis 2
+
+https://hls3.evomike.online/video/playlist/1ba1aa128282933cb26fc5b3a6696d94.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/qStibJTjjgriA7nqrA1LVCeNMIu.jpg" group-title="MOVIE CHANNELS", Miraculous World: Xangai, a Lenda de Ladydragon
+
+https://hls3.evomike.online/video/playlist/f9f9689cf7a872dbed0bd2ba4e30b9d8.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg" group-title="MOVIE CHANNELS", Homem-Aranha: Longe de Casa
+
+https://hls3.evomike.online/video/playlist/19c6431146b6729fd9ee00ae1b94df4c.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/sPmmgdmApfjX9x2mg02bo0aUOU9.jpg" group-title="MOVIE CHANNELS", As Marvels
+
+https://hls2.evomike.online/video/playlist/4dc21c923512da2a2d2ddb34c017c93a.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/nZ69WTv7n01womaNz3SHa4inA9x.jpg" group-title="MOVIE CHANNELS", Pantera Negra: Wakanda para Sempre
+
+https://hls3.evomike.online/video/playlist/6f20f075c2e3139e15c98c143f54cb63.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/fVzXp3NwovUlLe7fvoRynCmBPNc.jpg" group-title="MOVIE CHANNELS", Homem-Aranha: Sem Volta Para Casa
+
+https://hls3.evomike.online/video/playlist/402393e9f933cae5b16be684b0c0ed4f.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/ArrOBeio968bUuUOtEpKa1teIh4.jpg" group-title="MOVIE CHANNELS", Shang-Chi e a Lenda dos Dez Anéis
+
+https://hls3.evomike.online/video/playlist/c2a6ea29e8b31cecdc3193b1cedac973.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/rKq1Vlw0Bqe2EEvdmIkkkgPQAGf.jpg" group-title="MOVIE CHANNELS", Viúva Negra
+
+https://hls3.evomike.online/video/playlist/a8b8a3eec5bc98f539a8497630944529.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/hVgLHgnsO46oSHJy5I4ekhqtoYv.jpg" group-title="MOVIE CHANNELS", Capitã Marvel
+
+https://hls3.evomike.online/video/playlist/184ccf29017cb974978d24e6fd995a48.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/1nkwRL17cAGO8A1yu3miRBdvOsl.jpg" group-title="MOVIE CHANNELS", Homem-Aranha: De Volta ao Lar
+
+https://hls3.evomike.online/video/playlist/c0d26a41daa99c0df95e180265d48754.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/9p0uScG0xssIrANgcYLcDiNSLCK.jpg" group-title="MOVIE CHANNELS", Os Piratas da Rua Debaixo
+
+https://hls5.evomike.online/video/playlist/52f94303bddb092ee10f51200d3574c3.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/ot1VMbD7ACFh47LP8G2f67GejV5.jpg" group-title="MOVIE CHANNELS", Os Ninjas da Rua de Baixo
+
+https://hls3.evomike.online/video/playlist/d21a643c24334b869fef058650812d81.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/iUmlHbK05F38QNnVDTDXa5qXFgF.jpg" group-title="MOVIE CHANNELS", O Segredo do Abismo
+
+https://hls5.evomike.online/video/playlist/9a859672a504b43c07a1088348b175bb.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/k4jpv403NHo9LQcFHmKQBLEPwuI.jpg" group-title="MOVIE CHANNELS", Matador de Aluguel
+
+https://hls5.evomike.online/video/playlist/ee39da214b1b807da0a7ac87de95df43.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/35AI4Bmo1JrEzgMOxOARRUT9Pn6.jpg" group-title="MOVIE CHANNELS", Viagem ao Centro da Terra: O Filme
+
+https://hls5.evomike.online/video/playlist/1db84aa3ee29b488de97663a9e1776ce.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/yfRONMxtQMGgxV8nv2BgIYYzm2O.jpg" group-title="MOVIE CHANNELS", Viagem 2: A Ilha Misteriosa
+
+https://hls5.evomike.online/video/playlist/c74128e1489deb54fbb9dd691b1eb89c.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/7g0x8sdh0ZN6zBbt1CpUi9VMHmU.jpg" group-title="MOVIE CHANNELS", Davi vs. Golias: A Batalha Da Fé
+
+https://hls3.evomike.online/video/playlist/fe6254eed75780ff01fc1ebefc8fe371.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/czJoGeLEGF1lLxyAj8u3HMxBy7o.jpg" group-title="MOVIE CHANNELS", Armageddon
+
+https://hls3.evomike.online/video/playlist/873dd8b11a40f0c7aed8965e28f86141.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/rwkriXzzP9FoiIF5nTdxBsUcds4.jpg" group-title="MOVIE CHANNELS", Shazam!
+
+https://hls5.evomike.online/video/playlist/409b96cd7c3510f2c85ae22e2b785796.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/1qDivmsYL79dQZngyT3oKd4L9tA.jpg" group-title="MOVIE CHANNELS", Shazam! Fúria dos Deuses
+
+https://hls5.evomike.online/video/playlist/bb3a17572a9325bd4b0de8568406e2f8.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/ji5sD9AS4UlbJYB0HJCRQMXrgZd.jpg" group-title="MOVIE CHANNELS", Donzela
+
+https://hls5.evomike.online/video/playlist/0ad29a097751454edd1e61528fd4bfa5.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/cCRAMT530bTcZ4xs6E6pTUoAalE.jpg" group-title="MOVIE CHANNELS", Zona de Risco
+
+https://hls4.evomike.online/video/playlist/84507e47b5a3d4322e760b70ceea2ce7.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/pB3bVpghYknmwII295HQRQVlbVw.jpg" group-title="MOVIE CHANNELS", O Resgate: O Dia da Redenção
+
+https://hls4.evomike.online/video/playlist/f218fdfb78bae57a8f582d08d5c2207f.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/h2vB6OlhTA1jAazDXrr7PEgFPnV.jpg" group-title="MOVIE CHANNELS", O Incrível Hulk
+
+https://hls3.evomike.online/video/playlist/fba62308fb995519da9e2d6241936eb5.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg" group-title="MOVIE CHANNELS", Venom
+
+https://hls3.evomike.online/video/playlist/fbcb7e67a40b16fe5cd848f6e1e4c53f.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/rdat3dqmakvhE2oRnUml9g5gZJg.jpg" group-title="MOVIE CHANNELS", King Kong
+
+https://hls2.evomike.online/video/playlist/51a00f2907d82964157915073240aec4.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg" group-title="MOVIE CHANNELS", Godzilla vs. Kong
+
+https://hls3.evomike.online/video/playlist/89c0cb1b3bf244a90afcb7620f19ef8c.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/o44726g0aFhFsFIvQcz98yj7OrB.jpg" group-title="MOVIE CHANNELS", Kong: A Ilha da Caveira
+
+https://hls3.evomike.online/video/playlist/d6547b53b117ff902ee349e5cc08b343.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/2umU3r6V4V2gTmSnZJmH61nTorF.jpg" group-title="MOVIE CHANNELS", Godzilla 2: Rei dos Monstros
+
+https://hls3.evomike.online/video/playlist/b4a7a24d7471ae1ba0e00a9cb8606914.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/9dyFXQwmFHI1gMn2JEczgKD1hwO.jpg" group-title="MOVIE CHANNELS", Godzilla
+
+https://hls3.evomike.online/video/playlist/2a2fc1868af7e0f7a558a3abfbf269c1.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/lT6BaTnPc9Q7oPyLfiBtC6fNyep.jpg" group-title="MOVIE CHANNELS", Alerta Vermelho
+
+https://hls3.evomike.online/video/playlist/25e3a537d5de4030a902fc6ce8c35fc5.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/4zSuF9MUHOAFia7tvNUMFjVoctu.jpg" group-title="MOVIE CHANNELS", Nocaute
+
+https://hls2.evomike.online/video/playlist/09be67f7b09070b5b6f904120aae6bd1.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/pubLTvUi3K6Jx8DZ42CeepVikWK.jpg" group-title="MOVIE CHANNELS", Busca Implacável
+
+https://hls.evomike.online/video/playlist/8c1f05a6ff68c42322bad4425ec3c674.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/laLGcxl36GAxahL5PbUC8qvabzO.jpg" group-title="MOVIE CHANNELS", Busca Implacável 2
+
+https://hls.evomike.online/video/playlist/95772f7892ce65bdb9cc8cf68c316746.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/4lAnC2BU7VhUG9wxHSOai67Tiqg.jpg" group-title="MOVIE CHANNELS", Busca Implacável 3
+
+https://hls.evomike.online/video/playlist/4da92e5193b8402f3200f7132315c806.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/oB367uFcyU2uhGkFqo5RB4Evdji.jpg" group-title="MOVIE CHANNELS", Aquaman
+
+https://hls2.evomike.online/video/playlist/7a77c6a4cbd573bfe0830ec74b1bc433.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/zXiqgwerUrAtIzVL9OyRcG90oTh.jpg" group-title="MOVIE CHANNELS", A Rainha Guerreira
+
+https://hls2.evomike.online/video/playlist/1d462b1cc12b060ca0155a86dc0a646f.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/v7oGgmntwi8ZwVN0wId7yH1wmFT.jpg" group-title="MOVIE CHANNELS", Conan, o Destruidor
+
+https://hls2.evomike.online/video/playlist/f351e7b27f6d6d0a27ab142f2855e4bf.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/mr36VdEQw2Un3hiQ8ozPzXnVRy7.jpg" group-title="MOVIE CHANNELS", Bons Companheiros
+
+https://hls2.evomike.online/video/playlist/ad4431f64da85b8742c6b1fea858f30d.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/84ispMxgLDRvQaA6zlM9i7sdAAI.jpg" group-title="MOVIE CHANNELS", Aquaman 2: O Reino Perdido
+
+https://hls2.evomike.online/video/playlist/fab3446e807cf636455b5623522ff150.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/A50Ngq9lh9aCTGHC6kttrppHNoF.jpg" group-title="MOVIE CHANNELS", Aves de Rapina: Arlequina e sua Emancipação Fantabulosa
+
+https://hls2.evomike.online/video/playlist/4fd07558c898297b4f57696e2a675d0d.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/pe17f8VDfzbvbHSAKAlcORtBHmW.jpg" group-title="MOVIE CHANNELS", Alerta Vermelho
+
+https://hls3.evomike.online/video/playlist/137e4a8001b4727d40976beaafc17ab8.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/lDqMDI3xpbB9UQRyeXfei0MXhqb.jpg" group-title="MOVIE CHANNELS", Matrix
+
+https://hls.evomike.online/videos/0db94069d8b86e704fd981b076fe0250/master.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/9DT4WVqZqBEI9Kub18gZ3m1D89m.jpg" group-title="MOVIE CHANNELS", Matrix Resurrections
+
+https://hls.evomike.online/videos/38faec9447439c1bec8f0406c73ea330/master.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/7Ll9OLh4TQiGwQeOoEB7epgIUkf.jpg" group-title="MOVIE CHANNELS", V para Vingança
+
+https://hls.evomike.online/videos/36404d95c008b024d7e701bc140dec64/master.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/8tBhAn6qVRQzf5yvEcxjgPMgTkw.jpg" group-title="MOVIE CHANNELS", Megatubarão 2
+
+https://hls.evomike.online/videos/1cf99a90f006e7f47526557c617a2ae9/master.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/wrJkShDPK4TcV0nHix3HASEmkul.jpg" group-title="MOVIE CHANNELS", Megatubarão
+
+https://hls.evomike.online/videos/3f9e668dbbe081f4650b2997d5ab3700/master.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/itYONYDHpJqTuu8BCXAtHxgpglq.jpg" group-title="MOVIE CHANNELS", The Flash
+
+https://hls.evomike.online/videos/43fd9289629080418b6e46a115942578/master.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/iankBqCLmrQkU1UVNBG52kvFFns.jpg" group-title="MOVIE CHANNELS", Gigolô por Acidente
+
+https://hls2.evomike.online/video/playlist/a51ef7e18bb9e8e75e924957efca7e81.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/7bTGVenx0mUnuy4cx4vWtuYHY5Q.jpg" group-title="MOVIE CHANNELS", Imaculada
+
+https://hls2.evomike.online/video/playlist/9ccf7c0ccbfc49a6ddf7df9798a4597d.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/aButBgUMFxnduH3TyUSPGhTKW75.jpg" group-title="MOVIE CHANNELS", Amar Singh Chamkila
+
+https://hls2.evomike.online/video/playlist/2f86e3cf3c248d14f579dc713899e5f7.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/uURMTc8sSswigTHpV42TV6xhRkh.jpg" group-title="MOVIE CHANNELS", O Primeiro Amor
+
+https://hls2.evomike.online/video/playlist/703f46103424e7dec5cb9f3c1d365788.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/vZtteptwaNpZmdB1YwlyXOmUVw9.jpg" group-title="MOVIE CHANNELS", Yannick
+
+https://hls2.evomike.online/video/playlist/4533b83e20c54b705cbb4eaea8d66cbc.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/qxhyAtQUYVyktakrLwZkAHZPwSa.jpg" group-title="MOVIE CHANNELS", Os Estragos de Sábado à Noite
+
+https://hls2.evomike.online/video/playlist/f2e226ce0faccd65352be406618afd41.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/fJtwO5j1xEoWVntQWD6BExZ3Brp.jpg" group-title="MOVIE CHANNELS", Um Estranho Segredo
+
+https://hls2.evomike.online/video/playlist/ab3fad68afc3ee9c9ff509f251ba5c73.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/oRUusyQlKCfynGO1fIoCiLeNsY4.jpg" group-title="MOVIE CHANNELS", Estritamente Confidencial
+
+https://hls.evomike.online/video/playlist/c643ffe8edd32e1d6c75281f0c56f112.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/r0r8YkebXaFGpMfs2xNZXN2MzMP.jpg" group-title="MOVIE CHANNELS", Plano de Aposentadoria
+
+https://hls.evomike.online/video/playlist/a95d611df6ca67bee97b69cb19d7af6a.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/2GaF43DEVrPy9DNhTDiiIulI4gh.jpg" group-title="MOVIE CHANNELS", Vovó Saiu Do Armário
+
+https://hls.evomike.online/video/playlist/9f03e9407563332fa34dbed571dc42dc.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/cZiruAWPqKzJQRhU9LQ9k5iGLbB.jpg" group-title="MOVIE CHANNELS", O Especialista
+
+https://hls5.evomike.online/video/playlist/83fa08dd018147384c172b0f38a8a39a.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/3QOlGVuY2jeo0lX4XMMsTWkqmUg.jpg" group-title="MOVIE CHANNELS", Duna
+
+https://hls4.evomike.online/video/playlist/0d135cae3772aaf71ef2aec83b51b8c7.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/eLXRCSKXAo9831a9Bw22TdZSnzL.jpg" group-title="MOVIE CHANNELS", Duna
+
+https://hls4.evomike.online/video/playlist/34fa7d990cdf1d9f124579ac003ef66e.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/uT1pHr90KqQGMucv7YgyPdxhMiC.jpg" group-title="MOVIE CHANNELS", Jumanji: Bem-Vindo à Selva
+
+https://hls.evomike.online/video/playlist/19359d47878a61f83475953a8ce45774.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/bBRDUTr6jgbD8I8A9DvVGrVbdfB.jpg" group-title="MOVIE CHANNELS", Jumanji: Próxima Fase
+
+https://hls.evomike.online/video/playlist/a9cebde66fc49b51e4efa6b3a6884849.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/9Xcg7Ar4ketv4rl8yeK32yp9zQA.jpg" group-title="MOVIE CHANNELS", Piratas do Caribe: A Maldição do Pérola Negra
+
+https://hls2.evomike.online/video/playlist/46aa822cfc59ecc153c31d293369fdde.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/yvD1G41HwHgj8afCjmfGbyRmBBR.jpg" group-title="MOVIE CHANNELS", Piratas do Caribe: O Baú da Morte
+
+https://hls2.evomike.online/video/playlist/669fb9d2437bdf718c35bd2f681cf4fa.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/j15lZasREutscon6e61LSSNJoN7.jpg" group-title="MOVIE CHANNELS", Piratas do Caribe: No Fim do Mundo
+
+https://hls2.evomike.online/video/playlist/9e5859cd7498ea35aeecc9c9f17716d5.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/rdOc15GIOGJMqgsQXHUNeVHvVzM.jpg" group-title="MOVIE CHANNELS", Piratas do Caribe: Navegando em Águas Misteriosas
+
+https://hls2.evomike.online/video/playlist/2c207af27bb0f6c56000b0902fcfe07d/1080/1080p-0.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/FavAT2tbkCvlGM5pbgnRgAlzIf.jpg" group-title="MOVIE CHANNELS", Piratas do Caribe: A Vingança de Salazar
+
+https://hls2.evomike.online/video/playlist/e591cd14a9aa19eb60ef21f5bc63c744.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/vH9Hd7njePEe6xnRrYYaDmF2yqX.jpg" group-title="MOVIE CHANNELS", A Múmia
+
+https://hls3.evomike.online/video/playlist/baeb39860bf355fbbf275a2c1a34785e.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/ujQthWB6c0ojlARk28NSTmqidbF.jpg" group-title="MOVIE CHANNELS", Mulher-Maravilha
+
+https://hls.evomike.online/videos/1c76dcff77d69b8aad277dc0d284630a/master.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/AweDlIiohqw4sjC7gCsPVd1zo77.jpg" group-title="MOVIE CHANNELS", Mulher-Maravilha 1984
+
+https://hls.evomike.online/videos/306749fc289f328d2805969692bfdd16/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/7cVFRHlN2gPWIEQnz6Yo43fYVkL.jpg" group-title="MOVIE CHANNELS", Esqueceram de Mim no Lar, Doce Lar
+
+https://hls.evomike.online/video/playlist/4d93eab7729dbbf39d280979f5868bd9.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/saGMNCD6ayFqmOb9mX2MkkMmW7w.jpg" group-title="MOVIE CHANNELS", 14 Montanhas, 8 Mil Metros e 7 Meses
+
+https://hls.evomike.online/video/playlist/f8792b403f602967fe1b5f576044bdd9.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/bqx5WTWPX4H4g9LUCmnrtg9BIPZ.jpg" group-title="MOVIE CHANNELS", Snoopy Apresenta: Feliz Ano Novo, Lucy!
+
+https://hls.evomike.online/video/playlist/7ab5078c7df0e3ab50c843fcfd5372ca.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/kbHo7UFYihixl5goN2Ro5Zs15Cw.jpg" group-title="MOVIE CHANNELS", Imperdoável
+
+https://hls.evomike.online/video/playlist/b5a236c243f156be27e8030bcabe4829.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/9TtAmtq6iJfzh6qG4euG6eoUQDm.jpg" group-title="MOVIE CHANNELS", Próxima Parada: Lar Doce Lar
+
+https://hls.evomike.online/video/playlist/556fe8abfa1ef0cc89dc0c830c9b5fc6.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/eQaZZ0CFfCmBv5H5Mk11agRZzl2.jpg" group-title="MOVIE CHANNELS", Amor Com Fetiche
+
+https://hls.evomike.online/video/playlist/8b1ad380291599115308e857ea4f2d2f.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/lRyxUBohmfxY1PYenen4RjqYzMJ.jpg" group-title="MOVIE CHANNELS", Digam o Que Quiserem
+
+https://hls.evomike.online/video/playlist/e9fd3461f36f92fe426ce61b404a07f7.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/oTc03izWZ9UdD3y0HegVV2M0s0J.jpg" group-title="MOVIE CHANNELS", Puppy Love
+
+https://hls.evomike.online/video/playlist/4422667c6f8ef9d81ecc0f832eff582a.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/ogU7c0vOTtPutuKjNtMKK7QR7PX.jpg" group-title="MOVIE CHANNELS", Rebel Moon - Parte 2: A Marcadora de Cicatrizes
+
+https://hls.evomike.online/video/playlist/8522081de3cdea0644cac7da837aade2.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/hGPTbZTdmYgAuS58hY2JAI7B1Mx.jpg" group-title="MOVIE CHANNELS", Minha Teoria da Popularidade
+
+https://hls.evomike.online/video/playlist/9ca7226fd9d292dcd50ad1cf873d08bc.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/uVr8U96Pbj7sLk9qX6EQ8s3eTin.jpg" group-title="MOVIE CHANNELS", Shaun, O Carneiro - O Filme: A Fazenda Contra-Ataca
+
+https://hls3.evomike.online/video/playlist/fbd8ed00525cd466192d127bf5243ce2.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/oX7Wkoo6PwqoVXsnmoPx8OJnyYj.jpg" group-title="MOVIE CHANNELS", Os Infiltrados
+
+https://hls.evomike.online/video/playlist/256135eb59116fbf331273dff09696bc.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/fP9NH4rxc0HmE1lCvbQ3AUErIml.jpg" group-title="MOVIE CHANNELS", O Colecionador de Ossos
+
+https://hls.evomike.online/video/playlist/80a768fea2d350ac998f746f39d48b8c.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/dQMcan9MGuC7cQPaLaR068LmTGC.jpg" group-title="MOVIE CHANNELS", A Louca! Louca História de Robin Hood
+
+https://hls2.evomike.online/video/playlist/299d6526356bd2889260831a07ce598b.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/rpK3dukkvCa3E7iOPphsBGTO2dS.jpg" group-title="MOVIE CHANNELS", O Lendário Cão Guerreiro
+
+https://hls2.evomike.online/video/playlist/c42fe52aef68ef4f09a9a5af22d4cd08.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/wrigJThMLpla8RpGKkT6NhBnIos.jpg" group-title="MOVIE CHANNELS", A Maldição
+
+https://hls2.evomike.online/video/playlist/b0e1f4dc9dba01d806f65e51f8fa556c.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/erl801HYIodoIBGZeFk0GTwCUBh.jpg" group-title="MOVIE CHANNELS", Ilha do Medo
+
+https://hls2.evomike.online/video/playlist/23fca70f938de4eb7404fd1c86dac499.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/el7iWlogQ4Mv6A0qvBn4ZyxHGiW.jpg" group-title="MOVIE CHANNELS", Greyhound - Na Mira do Inimigo
+
+https://hls2.evomike.online/video/playlist/3b4d150232de02c4d5290eaca609dc2b.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/6ejm4Sx3rp44awUE0qyG1APBvpI.jpg" group-title="MOVIE CHANNELS", Mãe em Fúria
+
+https://hls2.evomike.online/video/playlist/b4a332dc9516ac61da7de5a9a15911a1.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/nCbkOyOMTEwlEV0LtCOvCnwEONA.jpg" group-title="MOVIE CHANNELS", Interestelar
+
+https://hls2.evomike.online/video/playlist/4bafdbcd6bfd4caa3b9caddd7988e079.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/qsOK6mqsmddKmiEtLReV6nlbuW0.jpg" group-title="MOVIE CHANNELS", Os Três Mosqueteiros: Milady
+
+https://hls2.evomike.online/video/playlist/3f20e72de2a0319be39799f2a7988ff6.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/bKzfFe8Mer5ZvSMGU7WBzg07TrY.jpg" group-title="MOVIE CHANNELS", Rainhas do Crime
+
+https://hls2.evomike.online/video/playlist/cb349ae93ca97acb912d58368290da32.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/kzYLQWX1I1itOY4aNrNq5xhxYnT.jpg" group-title="MOVIE CHANNELS", Pianoforte
+
+https://hls2.evomike.online/video/playlist/e0c86c333de5ce0088cb5333ae9f4d2a.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/r85hPj0GHfWbtYTo6Bn1cXye4Rp.jpg" group-title="MOVIE CHANNELS", Um Conto do Destino
+
+https://hls2.evomike.online/video/playlist/9832ed16b31be690cfdc4c232c32a06b.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/isXDRoaeOm7BJVXVwPzPTnKWKqi.jpg" group-title="MOVIE CHANNELS", Macaco vs. Máquina
+
+https://hls2.evomike.online/video/playlist/086afa0a83a743993860592eb0194a44.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/wdi9kEU4W2UeBTtdqOPZISGMtDR.jpg" group-title="MOVIE CHANNELS", Ordinary Angels
+
+https://hls2.evomike.online/video/playlist/5b6c9eaca86010578d20fe04da56f50b.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/eOJJrar0zaFfAh4Do8Jou32wsxI.jpg" group-title="MOVIE CHANNELS", Liga da Justiça x RWBY: Super-Heróis e Caçadores - Parte 2
+
+https://hls2.evomike.online/video/playlist/fe9604a97654ec3fd2b426f9fcea13aa.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/gs9thnvpkf6HCx2lJZlY5YaLQ7s.jpg" group-title="MOVIE CHANNELS", Liga da Justiça x RWBY: Super-Heróis e Caçadores - Parte 1
+
+https://hls3.evomike.online/video/playlist/e572f5108719c878127c39a22d3e284f.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/wbf1LkidorzXo2yI9pbjH23YJRr.jpg" group-title="MOVIE CHANNELS", Possessões
+
+https://hls3.evomike.online/video/playlist/efeb2f5e2c000dacb30654ecbf764f9b.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/yE2sZLLgTAxqsCyYp8glZRC4pZn.jpg" group-title="MOVIE CHANNELS", Experimento Assassino
+
+https://hls3.evomike.online/video/playlist/663b41dd3251e7476c017ff7b1f30461.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/1aBZPIHkQeqQuTdYmYhhyKgwwel.jpg" group-title="MOVIE CHANNELS", Um Plano em Família
+
+https://hls3.evomike.online/video/playlist/4735313a03b07b6ece46261c5c4e04ad.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/iQ2TCB6nszgFHnF1QeHJujvBIzn.jpg" group-title="MOVIE CHANNELS", Barry Fritado
+
+https://hls2.evomike.online/video/playlist/d7d28668685a662354dee8f94f3aa851.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/134cvqia2qmJ0gG4hszaK87iuPW.jpg" group-title="MOVIE CHANNELS", A Presa
+
+https://hls2.evomike.online/video/playlist/1e0799c908292a8da37c432b04f6b6c4.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/7SXPnOYZscdtyCwH8h2lInnSpGs.jpg" group-title="MOVIE CHANNELS", Paz e Chocolate
+
+https://hls2.evomike.online/video/playlist/6cab03b664c3f34c7326aa2d6afa2485.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/l3CG9YMfRywp6FyrYpkZS4lThWM.jpg" group-title="MOVIE CHANNELS", Origin
+
+https://hls2.evomike.online/video/playlist/2e330b3f519ced0f341c9f9c61eaf428.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/4qU8xM8nFsXvUYSZsRQOdIti267.jpg" group-title="MOVIE CHANNELS", Chamas da Vingança
+
+https://hls2.evomike.online/video/playlist/fd7efd642540dc082aa48d6e5cb86d44.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://megaflix.sh/wp-content/uploads/2022/08/9kv93ugqoB8SMCKkDgnt3zUSWlj-160x240.jpg" group-title="MOVIE CHANNELS", A Herança de Mr. Deeds
+
+https://hls2.evomike.online/video/playlist/902c6ebef1a681b720cc217bae376b1e.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/eYIkE5wwM2rQgMyKdAkrnhYZ5zQ.jpg" group-title="MOVIE CHANNELS", Assassino de Aluguel
+
+https://hls2.evomike.online/video/playlist/86328b5f791649eada5df4aa0a89679f.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/hy14e2I7GCiQJpVDa7MRXdtK5nz.jpg" group-title="MOVIE CHANNELS", Our Son
+
+https://hls2.evomike.online/video/playlist/fa972506d8d2884c80a58af5078079d9.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/r3PJPXuSArGK8tM6lBUyPUTtIbJ.jpg" group-title="MOVIE CHANNELS", O Que Jennifer Fez?
+
+https://hls2.evomike.online/video/playlist/aa4ffa3b8fa1e32021192d3de6a644fb.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/t6cWfm0o5TzCa3nHtHhXpzjBc8V.jpg" group-title="MOVIE CHANNELS", O Mal que Nos Habita
+
+https://hls2.evomike.online/video/playlist/a69b5b416356180056a25235293a3293.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/bu46QECM8bKhB0e2eYkCm0ckXUu.jpg" group-title="MOVIE CHANNELS", Matador de Aluguel
+
+https://hls2.evomike.online/video/playlist/e4c6513167645d28e06536db17e3052d.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/f9sNoZ1boYqIrIgHKblBPnus9ez.jpg" group-title="MOVIE CHANNELS", Beijos Que Matam
+
+https://hls2.evomike.online/video/playlist/afb38e54083a56c5df06d80764f61aa0.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/oQJWjO5aw5N4uCoh6CYrxf1LePv.jpg" group-title="MOVIE CHANNELS", Liga da Justiça: Crise nas Infinitas Terras - Parte Dois
+
+https://hls4.evomike.online/video/playlist/f0ea11679fff6c28a1affff1700c00a1.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/61OQPchvsTPr7pQPggGLbTgG7vY.jpg" group-title="MOVIE CHANNELS", Aviões 2: Heróis do Fogo ao Resgate
+
+https://hls4.evomike.online/video/playlist/578d67935a038f81d6747862511fc786.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/4KrnsveRY7O6YR2X0j1vGrEksIZ.jpg" group-title="MOVIE CHANNELS", Aviões
+
+https://hls4.evomike.online/video/playlist/d56fa7a05bfedc982786e72aeecf3f77.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/pWhWu2edAAkpTN5iKeJnYuJit47.jpg" group-title="MOVIE CHANNELS", Pegando Fogo
+
+https://hls4.evomike.online/video/playlist/5b824a1d621a2bbd3ef935e1aba9c9d9.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/kkXGsCIo643ryekY8UT6Onzrc4r.jpg" group-title="MOVIE CHANNELS", Downtown Owl
+
+https://hls4.evomike.online/video/playlist/c9335f44364c4f5ef94098d9b52db45a.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/l3QCGqB5bFlFJKizM9rucsMbHpe.jpg" group-title="MOVIE CHANNELS", Um Morto Muito Louco
+
+https://hls4.evomike.online/video/playlist/a9aa7afc0924b0ea437a056f0366c04f.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w185/24zJ2JLnBQiiQRrjLb0kIY4nEQF.jpg" group-title="MOVIE CHANNELS", A Fórmula Secreta
+
+https://hls4.evomike.online/video/playlist/fd6b10aefc350c76c5018a09e4f0b3a4.m3u8
+
